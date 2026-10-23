@@ -1,2 +1,2 @@
 # UnidadeIII-testes-integracao
-Repositório para conter os casos de testes gerados no exercicio Fórum "Prompts para testes" da unidade III do curso 13 – Testes de Software Automatizados com Inteligência Artificial Generativa
+<img width="1376" height="2268" alt="image" src="https://github.com/user-attachments/assets/1e616890-e161-47f0-827e-b0d618796ddc" />
